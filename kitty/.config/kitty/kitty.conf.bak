@@ -1,11 +1,12 @@
 # vim:fileencoding=utf-8:foldmethod=marker
 
 # BEGIN_KITTY_THEME
-# 1984 Dark
+# Gruvbox Material Dark Medium
 include current-theme.conf
 # END_KITTY_THEME
 
 # Adjust to your favorite font
+# ARCH:
 font_family      Iosevka Nerd Font
 # Font size in points (not pixels)
 font_size 12.0

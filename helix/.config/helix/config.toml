@@ -1,4 +1,4 @@
-theme = "gruvbox-material"
+theme = "adwaita-dark"
 
 [editor]
 line-number = "absolute"
@@ -11,3 +11,6 @@ select = "underline"
 
 [editor.file-picker]
 hidden = false
+
+[editor.soft-wrap]
+enable = true

@@ -12,14 +12,14 @@
     <property name="screen0" type="empty">
       <property name="monitoreDP-1" type="empty">
         <property name="workspace0" type="empty">
-          <property name="last-image" type="string" value="/home/idh/Pictures/wallpapers/luke-smith-moment.png"/>
+          <property name="last-image" type="string" value="/home/idh/Pictures/wallpapers/gracile-pixel-art-moon.jpg"/>
         </property>
       </property>
     </property>
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="719"/>
-    <property name="window-height" type="int" value="547"/>
+    <property name="window-height" type="int" value="573"/>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="0"/>
