@@ -38,6 +38,7 @@
         <property name="startup-notify" type="bool" value="true"/>
       </property>
       <property name="&lt;Super&gt;l" type="string" value="xfce4-screensaver-command --lock"/>
+      <property name="&lt;Alt&gt;b" type="string" value="firefox"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

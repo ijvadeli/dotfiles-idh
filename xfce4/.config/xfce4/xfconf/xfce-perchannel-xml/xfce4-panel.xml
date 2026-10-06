@@ -7,7 +7,7 @@
       <property name="position" type="string" value="p=6;x=960;y=16"/>
       <property name="length" type="empty"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="30"/>
+      <property name="size" type="uint" value="32"/>
       <property name="length-adjust" type="empty"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="8"/>
@@ -23,6 +23,13 @@
         <value type="int" value="14"/>
       </property>
       <property name="icon-size" type="uint" value="16"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.20784313725490197"/>
+        <value type="double" value="0.20784313725490197"/>
+        <value type="double" value="0.20784313725490197"/>
+        <value type="double" value="1"/>
+      </property>
     </property>
     <property name="dark-mode" type="bool" value="true"/>
   </property>
@@ -74,9 +81,9 @@
     <property name="plugin-10" type="empty">
       <property name="show-frame" type="empty"/>
       <property name="digital-format" type="empty"/>
-      <property name="digital-time-format" type="string" value="%a %d %b, %R"/>
+      <property name="digital-time-format" type="string" value="%R"/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-font" type="string" value="Open Sans Bold 11"/>
+      <property name="digital-time-font" type="string" value="Iosevka Nerd Font Propo Bold 12"/>
     </property>
     <property name="plugin-11" type="empty">
       <property name="style" type="empty"/>
