@@ -1,21 +1,29 @@
-@theme "gruvbox-dark"
+@theme "Arc-Dark"
 
 configuration {
-   show-icons: true;
-   font: "Iosevka Nerd Font 12";
-   display-drun: "Search";
+    show-icons: true;
+    icon-theme: "elementary-xfce";
+    font: "Iosevka Nerd Font 16";
+    display-drun: "Search";
+    matching: "prefix";
+    tokenize: false;
+    drun-match-fields: "name";
 }
 
 // Search bar
 entry {
-   placeholder: "App name";
+    placeholder: "";
 }
 
 // Icon size
 element-icon {
-   size: 29px;
+    size: 32px;
 }
 // Icon text size
 element-text {
-   vertical-align: 0.5;
+    vertical-align: 0.5;
+}
+
+window {
+    width: 75ch;
 }
