@@ -12,6 +12,8 @@ Everything can be installed with stow, if you never worked with this you can use
 - run stow + folder/app name
 - example: stow kitty (automatically creates a symlink, configures kitty from dotfiles folder)
 
+I also made an install.sh script with all packages that automatically stows them.
+
 My biggest advice is to just take a look at the repo, and use it as inspiration for your own configs and build your own!
 You learn alot about the apps that way, and understand how they work under the hood.
 
