@@ -674,3 +674,6 @@ show_startup_tips false
 //   - "off" (do not forward notifications to the host terminal)
 // 
 // host_notification_protocol "auto"
+
+// Layout Config
+layout_dir "./layouts"

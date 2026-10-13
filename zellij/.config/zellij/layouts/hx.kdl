@@ -1,0 +1,14 @@
+layout {
+	pane {
+		size "80%"
+		command "hx"
+		args "."
+		focus true
+		borderless true
+	}
+	pane split_direction="horizontal" {
+		pane {
+			borderless true
+		}
+	}
+}
