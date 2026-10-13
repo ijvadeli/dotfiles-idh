@@ -676,4 +676,4 @@ show_startup_tips false
 // host_notification_protocol "auto"
 
 // Layout Config
-layout_dir "./layouts"
+layout_dir "/home/idh/.config/zellij/layouts/"
