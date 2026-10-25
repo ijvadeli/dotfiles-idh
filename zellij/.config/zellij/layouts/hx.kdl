@@ -1,7 +1,7 @@
 layout {
 	pane {
 		size "80%"
-		command "hx"
+		command "helix"
 		args "."
 		focus true
 		borderless true
