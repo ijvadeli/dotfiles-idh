@@ -1,4 +1,4 @@
-theme = "base16_transparent"
+theme = "yo_berry"
 
 [editor]
 line-number = "relative"
@@ -13,4 +13,4 @@ select = "underline"
 hidden = false
 
 [editor.soft-wrap]
-enable = true
+enable = false
