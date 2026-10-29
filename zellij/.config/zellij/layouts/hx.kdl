@@ -8,6 +8,7 @@ layout {
 	}
 	pane split_direction="horizontal" {
 		pane {
+			command "zsh"
 			borderless true
 		}
 	}
