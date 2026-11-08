@@ -1,19 +1,20 @@
 # vim:fileencoding=utf-8:foldmethod=marker
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Frappe
+# Ayaka
 include current-theme.conf
 # END_KITTY_THEME
 
 # Adjust to your favorite font
-# ARCH:
-font_family      Iosevka Nerd Font
+font_family     MesloLGL Nerd Font 
 # Font size in points (not pixels)
 font_size 12.0
+# Font features
+font_features +liga +calt
 # Adjusted to work with Iosevka
-line_height 118%
+# line_height 118%
 # Adjust opacity to your liking, 0.90 for example or 0.80
-background_opacity 0.90
+background_opacity 1.0
 # Little window padding for better readability
 window_padding_width 0
 
